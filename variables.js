@@ -9,3 +9,8 @@ var glassesOfWaterPerDay = "8"
 ##Boolean
 var turingPass = true
 var turingFail = false
+
+## String Interpolaltion
+var emailCount = 26
+var sentence = `{emailCount} amount of emails`
+console.log(sentence);
