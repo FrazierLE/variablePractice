@@ -1,8 +1,8 @@
 
-var greeting = "hello"
-console.log("hello")
-var phoneNumber = "5557774333"
-console.log("5557774333");
+var greeting = "bonjour"
+console.log("bonjour")
+var phoneNumber = "8106231790"
+console.log("8106231790");
 
 var glassesOfWaterPerDay = 8
 console.log(glassesOfWaterPerDay);
