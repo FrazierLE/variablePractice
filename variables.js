@@ -1,16 +1,15 @@
-## Strings
-var email = "lauren.e.frazier@gmail.com"
-var username = "FrazierLE"
 
-## Numbers
-var birthYear = "1994"
-var glassesOfWaterPerDay = "8"
+var greeting = "hello"
+console.log("hello")
+var phoneNumber = "5557774333"
+console.log("5557774333");
 
-##Boolean
-var turingPass = true
-var turingFail = false
+var glassesOfWaterPerDay = 8
+console.log(glassesOfWaterPerDay);
+var hoursOfSleep = 8
+console.log(hoursOfSleep);
 
-## String Interpolaltion
-var emailCount = 26
-var sentence = `{emailCount} amount of emails`
-console.log(sentence);
+var rentPaid = true
+console.log(rentPaid);
+var depositFullyPaid = false
+console.log(depositFullyPaid);
