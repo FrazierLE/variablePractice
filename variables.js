@@ -13,3 +13,7 @@ var rentPaid = true
 console.log(rentPaid);
 var depositFullyPaid = false
 console.log(depositFullyPaid);
+
+var greeting = "bonjour"
+var sentence = `${greeting} hello in french`;
+console.log(sentence);
